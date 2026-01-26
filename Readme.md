@@ -21,16 +21,14 @@ Created by Xing Liu
 
 Make sure you have the following dependencies installed (python):
 
-* pytorch >= 0.4.0
-* matplotlib=3.1.0
-* einops
-* timm
-* tensorboard
-* CLIP
+- Python 3.8.10
+- PyTorch 2.0.0
+- CUDA 12.2
 
-```bash
-pip install git+https://github.com/openai/CLIP.git
+For installation of the project dependencies, please run:
 ```
+pip install -r requirements.txt
+``` 
 
 You should download [MATLAB](https://www.mathworks.com/products/matlab-online.html) if you want to evaluate our model on MPI-INF-3DHP dataset.
 
