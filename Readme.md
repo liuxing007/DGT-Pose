@@ -1,4 +1,4 @@
-﻿# FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models
+﻿# DGT-Pose: Dynamic Skeleton-Aware Graph with Transformer for 3D Human Pose Estimation
 
 Created by [Jinglin Xu](http://39.108.48.32/XuWebsite/), [Yijie Guo](https://github.com/GYJHSG/), [Yuxin Peng](https://scholar.google.com/citations?user=mFsXPNYAAAAJ&hl=zh-CN)
 
