@@ -51,13 +51,6 @@ SOON...
 SOON...
 
 
-#### Visualization
-Run the following command in the `data/preprocess` directory (it expects 243 frames):
-```text
-python visualize.py --dataset h36m --sequence-number <AN ARBITRARY NUMBER>
-```
-This should create a gif file named `h36m_pose<SEQ_NUMBER>.gif` within `data` directory.
-
 ## Acknowledgement
 Our code refers to the following repositories.
 * [MotionDiffuse](https://github.com/mingyuan-zhang/MotionDiffuse)
