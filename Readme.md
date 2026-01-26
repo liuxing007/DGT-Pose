@@ -1,6 +1,7 @@
 ﻿# DGT-Pose: Dynamic Skeleton-Aware Graph with Transformer for 3D Human Pose Estimation
 
 Created by Xing Liu
+code will be released soon
 
 
 ## Overview
