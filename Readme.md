@@ -44,7 +44,8 @@ We set up the Human3.6M dataset in the same way as [VideoPose3D](https://github.
 
 We set up the MPI-INF-3DHP dataset following [P-STMO](https://github.com/paTRICK-swk/P-STMO). However, our training/testing data is different from theirs. They train and evaluate on 3D poses scaled to the height of the universal skeleton used by Human3.6M (officially called "univ_annot3"), while we use the ground truth 3D poses (officially called "annot3"). You can download our processed data from [here](https://drive.google.com/file/d/1zOM_CvLr4Ngv6Cupz1H-tt1A6bQPd_yg/view?usp=share_link). Put them in the `./data` directory. 
  
-
+## Evaluation
+SOON...
 #### Visualization
 Run the following command in the `data/preprocess` directory (it expects 243 frames):
 ```text
