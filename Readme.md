@@ -80,22 +80,12 @@ python visualize.py --dataset h36m --sequence-number <AN ARBITRARY NUMBER>
 ```
 This should create a gif file named `h36m_pose<SEQ_NUMBER>.gif` within `data` directory.
 
-## Reference
-```
-@InProceedings{Xu_2024_CVPR_finepose,
-    author    = {Xu, Jinglin and Guo, Yijie and Peng, Yuxin},
-    title     = {FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year      = {2024},
-    pages     = {561-570}
-}
-```
-
 ## Acknowledgement
 Our code refers to the following repositories.
 * [MotionDiffuse](https://github.com/mingyuan-zhang/MotionDiffuse)
 * [D3DP](https://github.com/paTRICK-swk/D3DP)
 * [MixSTE](https://github.com/JinluZhang1126/MixSTE)
+* [MotionAGFormer]([[https://github.com/JinluZhang1126/MixST](https://github.com/TaatiTeam/MotionAGFormer)])
 
 We thank the authors for releasing their codes.
 
