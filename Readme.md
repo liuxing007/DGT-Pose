@@ -85,7 +85,7 @@ Our code refers to the following repositories.
 * [MotionDiffuse](https://github.com/mingyuan-zhang/MotionDiffuse)
 * [D3DP](https://github.com/paTRICK-swk/D3DP)
 * [MixSTE](https://github.com/JinluZhang1126/MixSTE)
-* [MotionAGFormer]([[https://github.com/JinluZhang1126/MixST](https://github.com/TaatiTeam/MotionAGFormer)])
+* [MotionAGFormer](https://github.com/TaatiTeam/MotionAGFormer)
 
 We thank the authors for releasing their codes.
 
