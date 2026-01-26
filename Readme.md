@@ -2,7 +2,7 @@
 
 Created by Xing Liu
 
-code will be released soon
+Code will be released soon...
 
 
 ## Overview
