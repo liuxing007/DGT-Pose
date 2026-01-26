@@ -73,8 +73,12 @@ To train our model using the ground truth 2D poses as inputs, please run:
 python main_3dhp.py -c checkpoint/model_3dhp -gpu 0,1 --nolog
 ```
 
-### Pretrained Models
-[Baidu Netdisk](https://pan.baidu.com/s/1fE15vS1N9h-XWbjXLB-N-A?pwd=0901)
+#### Visualization
+Run the following command in the `data/preprocess` directory (it expects 243 frames):
+```text
+python visualize.py --dataset h36m --sequence-number <AN ARBITRARY NUMBER>
+```
+This should create a gif file named `h36m_pose<SEQ_NUMBER>.gif` within `data` directory.
 
 ## Reference
 ```
